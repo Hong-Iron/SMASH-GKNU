@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "국립경국대학교 지역교육문화복합관": {
+      "style": "glass",
+      "wall": "#c9ccd0",
+      "glass": "#5f7689",
+      "frame": "#a5a3a3"
+    },
+    "국립경국대학교 솔뫼문화관": {
+      "style": "ribbon",
+      "wall": "#a89c9e",
+      "glass": "#3f4446",
+      "frame": "#b7a898"
+    },
+    "국립경국대학교 국제교류관": {
+      "style": "stone",
+      "wall": "#c8c6c2",
+      "glass": "#4d5650",
+      "frame": "#bcb097"
+    },
+    "사회학관": {
+      "style": "brick",
+      "wall": "#85605a",
+      "glass": "#4e6464",
+      "frame": "#e4e4e2"
+    },
+    "국립경국대학교 자연,생명과학1호관": {
+      "style": "stone",
+      "wall": "#e0d8d2",
+      "glass": "#4a5560",
+      "frame": "#c8c8c8"
+    },
+    "국립경국대학교 중앙도서관": {
+      "style": "glass",
+      "wall": "#cdc8c0",
+      "glass": "#6d7f86",
+      "frame": "#d8d4cc"
+    },
+    "음악학관": {
+      "style": "stone",
+      "wall": "#e0ddd5",
+      "glass": "#586e64",
+      "frame": "#e2e1dc"
+    },
+    "국립경국대학교 가람관(여자기숙사)": {
+      "style": "dorm",
+      "wall": "#c3c6d2",
+      "glass": "#47586b",
+      "frame": "#e2e4ea"
+    },
+    "국립경국대학교 체육관": {
+      "style": "concrete",
+      "wall": "#8e8e8e",
+      "glass": "#4b5a60",
+      "frame": "#c0642a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
